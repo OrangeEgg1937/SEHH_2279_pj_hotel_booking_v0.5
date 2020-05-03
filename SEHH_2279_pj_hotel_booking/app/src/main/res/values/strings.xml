@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">sehh_2279_gp_pj_hotel_booking</string>
+
+    <!--This is for app use-->
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="next_key">Next</string>
+    <string name="back_key">Back</string>
+
+    <!--This is for menu use-->
+    <string name="welcome_user_msg">Hello, Mr.Chan</string>
+
+    <!--Page title-->
+    <string name="news_page_title">What\'s news</string>
+    <string name="booking_page_title">Booking</string>
+    <string name="user_account_page_title">My profile</string>
+    <string name="help_page_title">Help</string>
+    <string name="view_booking_page_title">View booking</string>
+    <string name="setting_page">Setting</string>
+
+    <!--This is for booking page use-->
+    <string-array name="District">
+        <item>Hong Kong Island</item>
+        <item>Central and Western District</item>
+        <item>Eastern District</item>
+        <item>Southern District</item>
+        <item>Wan Chai</item>
+        <item>Kowloon</item>
+        <item>Kowloon City</item>
+        <item>Kwun Tong</item>
+        <item>Sham Shui Po</item>
+        <item>Wong Tai Sin</item>
+        <item>Yau Tsim Mong</item>
+        <item>Kwai Tsing</item>
+        <item>Sai Kung</item>
+        <item>Sha Tin</item>
+        <item>Tai Po</item>
+        <item>Tsuen Wan</item>
+        <item>Tuen Mun</item>
+        <item>Yuen Long</item>
+    </string-array>
+    <string name="select_page_title"><u>Place to stay</u></string>
+
+    <string-array name="phone">
+        <item>Hong Kong +852</item>
+        <item>France +33</item>
+        <item>Australia +61</item>
+    </string-array>
+
+    <string name="congratulations">Congratulations, the transaction is successful. <br /> You can visit other hotels.</string>
+
+    <string-array name="month">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="year">
+        <item>Year</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+    </string-array>
+
+    <string name="hotel_description">2 travelers 1 bedroom 2 beds 1 private bathroom <p>Free Wifi</p></string>
+    <string name="view_room">View room</string>
+    <string name="view_hotel">View hotel</string>
+    <string name="hotel_link">Offical: https://zh.hotels.com/</string>
+
+    <!--This is for What's new page use-->
+    <string name="news_heading">Announcement due to the Coronavirus</string>
+    <string name="news_content">Since Coronavirus(COVID-19) is affecting around the world. Some of the hotels decide to suspend their business until further notice.
+        Therefore, the choice for hotels on our app is limited. We apologized for the above issue.</string>
+    <string name="news_content2">For your health concern, we suggest you to stay at home and don\'t contact with others closely.
+        If you have a necessary purpose to go out, please wear a mask to protect yourself inflecting the virus from others.
+        We hope you can stay healthy and have a nice day all the time.</string>
+
+    <!--This is for View Booking page use-->
+    <string name="tab_text_1">Upcoming</string>
+    <string name="tab_text_2">Past</string>
+    <string name="your_booking">Your booking</string>
+    <string name="action_settings">Settings</string>
+    <string name="add"><b>+</b></string>
+    <string name="mins"><b>-</b></string>
+</resources>
